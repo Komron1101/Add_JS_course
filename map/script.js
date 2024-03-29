@@ -70,6 +70,6 @@ console.log(map);
 // }
 
 // TODO: 5 - ый способ
-// map.forEach((value, key) => {
+// map.forEach((value, key, map) => {
 //     console.log(key, value);
 // });
